@@ -1,0 +1,57 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.2.30-release-Studio3.1-1" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="lastTip" value="108" />
+    <property name="android-component-compatibility-check" value="1539234405915" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="file.gist.reindex.count" value="70195" />
+    <property name="newly.installed.api.level" value="21" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="SearchEveryWhereHistory" value="c&#10;Res&#10;Resul&#10;Androidmonitor&#10;SupportMap" />
+    <property name="PLUGIN_FILTER" value="flu&#10;dar&#10;dart&#10;flutter&#10;android wif" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AndroidStudioProjects/Task1&#10;C:/Users/KAS042018AD/Desktop/parkingg.png&#10;C:/Users/KAS042018AD/Desktop/parking_img.png&#10;C:/Users/KAS042018AD/AndroidStudioProjects/Medaram_offical/app/libs/YouTubeAndroidPlayerApi.jar&#10;C:/Users/KAS042018AD/Desktop/immg.jpg&#10;C:/Users/KAS042018AD/Desktop/live_img.png&#10;C:/Users/KAS042018AD/Desktop/android-AdvancedImmersiveMode-master&#10;C:/Users/KAS042018AD/Desktop/android-BasicImmersiveMode-master&#10;C:/Users/KAS042018AD/Desktop/android-ImmersiveMode-master&#10;C:/Users/KAS042018AD/Desktop/New folder (2)/EcommersApplication&#10;C:/Users/KAS042018AD/Desktop&#10;C:/Users/KAS042018AD/KAS Projects/Tablayout&#10;C:/Users/KAS042018AD/AndroidStudioProjects/Androidprojects examples/Recyclerview&#10;C:/Users/KAS042018AD/AndroidStudioProjects/ss&#10;C:/Users/KAS042018AD/Desktop/New folder (2)/SlidingRootNav-master&#10;C:/Users/KAS042018AD/AndroidStudioProjects/NavigationDrawer&#10;C:/Users/KAS042018AD/KAS Projects/Slidingmenu&#10;C:/Users/KAS042018AD/AndroidStudioProjects/Sliding&#10;C:/Users/KAS042018AD/Desktop/multi-language-support-to-android-app-master&#10;C:/Users/KAS042018AD/AndroidStudioProjects/Templeproject&#10;C:/Users/KAS042018AD/Desktop/store-locator-android-master/StoreLocator&#10;C:/Users/KAS042018AD/Desktop/mapbox-plugins-android-master&#10;C:/Users/KAS042018AD/Desktop/mapbox-navigation-android-master&#10;C:/Users/KAS042018AD/Desktop/New folder (2)/so47492459-master&#10;C:/Users/KAS042018AD/Desktop/marker.png&#10;C:/Users/KAS042018AD/Desktop/marker-15.svg&#10;C:/Users/KAS042018AD/Desktop/markers.png&#10;C:/Users/KAS042018AD/Desktop/mapbox-android-demo-master&#10;C:/Users/KAS042018AD/Desktop/bluemarker.png&#10;C:/Users/KAS042018AD/AndroidStudioProjects/Maps" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ColorChooser.RecentColors" value="254-255-255-255,,,255-0-29-255,,,4-4-7-255,,,34-0-11-255,,,20-0-2-255,,,0-0-0-255,,,255-255-255-255,,,48-6-255-255,,,92-134-255-255,,,255-35-0-255,,,78-58-69-255,,,255-173-32-255,,,255-153-0-255,,,219-225-221-255,,,186-192-188-255,,,137-141-138-255,,,213-255-83-255" />
+    <property name="ignore.power.save.mode" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="fileTypeChangedCounter" value="15" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6666667" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="dir.diff.panel.divider.location" value="54" />
+    <property name="properties.mode" value="INSPECTOR" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="225" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="AndroidPlatformName" value="Android API 27 Platform" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="LOG_FILTER_HISTORY" value="Ex&#10;E&#10;message:&#10;message&#10;VO" />
+    <property name="last.imported.location" value="$USER_HOME$/AndroidStudioProjects/Home" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TEXT_SEARCH_HISTORY" value="fontfamily" />
+    <property name="FileColorsForTabsEnabled" value="true" /
